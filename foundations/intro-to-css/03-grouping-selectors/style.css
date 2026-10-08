@@ -1,1 +1,13 @@
-/* Add CSS Styling */
+.yes, .no {
+    font: "Helvetica", "Times New Roman", "sans-serif";
+    font-size: 28px
+}
+
+.no {
+    background-color: yellow;
+}
+
+.yes {
+    color: white;
+    background-color: black
+}

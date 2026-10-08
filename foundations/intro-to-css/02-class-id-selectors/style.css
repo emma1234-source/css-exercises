@@ -1,1 +1,27 @@
-/* Add CSS Styling */
+.pink,.pink_expanded {
+    background-color: #e9967a;
+    font: verdana;
+} 
+
+.pink {
+    font-size: 16px;
+}
+
+.pink_expanded{
+    font-size: 24px;
+}
+
+#blue {
+    color: #0000ff;
+    font: "Times New Roman";
+    font-size: 27px;
+
+}
+
+#green {
+    background-color: #008000;
+    font-size: 18px;
+    font-weight: bold;
+}
+
+    /* Add CSS Styling */
